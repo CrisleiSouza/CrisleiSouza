@@ -32,7 +32,6 @@
 
 - 🎯 **[Projeto Zonks](https://github.com/CrisleiSouza/projeto-zonks)** — Trabalho de Conclusão de Curso (TCC) para o curso técnico, desenvolvido em PHP
 - 🍰 **[Confeitaria](https://github.com/CrisleiSouza/Confeitaria)** — Sistema de Programação Orientada a Objetos com **JavaFX** e **MariaDB**
-- ⚙️ **[Controle Roteador](https://github.com/CrisleiSouza/ControleRoteador)** — Sistema desenvolvido em Java
 
 ---
 
