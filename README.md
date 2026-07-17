@@ -37,8 +37,8 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=CrisleiSouza&show_icons=true&theme=default)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleiSouza&layout=compact)
+![Estatísticas](./assets/metrics.svg)
+![Top Linguagens](./assets/top-langs.svg)
 
 ---
 
