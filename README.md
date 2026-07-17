@@ -35,13 +35,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas](./assets/metrics.svg)
-![Top Linguagens](./assets/top-langs.svg)
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislei-souza-1048322b5/)
